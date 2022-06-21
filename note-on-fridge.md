@@ -22,4 +22,5 @@ Just go ahead and write an X in that first box now that you've read this.
 Be sure to delete the space, too. It's important. Trust me.
 
 Welcome home.
+
 &nbsp;-The Landlord
