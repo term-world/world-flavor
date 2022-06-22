@@ -34,7 +34,23 @@ And each `repository` has a built-in history of all the ways in which different 
 
 You could be one of those people.
 
-All you need is that `SSH key`.
+All you need is that `SSH key`. Think of it like an identifier. Like a signature.
+
+The multiverse is a messy place, and to keep the chaos in check it helps to know *who* is doing *what* to it.
+
+The `SSH key` does just that. It connects you to the `GitHub`. Securely.
+
+You make an `SSH key` and even guys like me can't take it from you.
+
+That's because there's two pieces to the `SSH key`.
+
+The first piece is a `private key` that only you get.
+
+The second piece is `public key` that works with the first piece to "complete" the connection.
+
+Even if I have that second piece, I can't do diddly without that `private key`.
+
+And that `private key` is stored safely inside of *you*. Er, *your machine*.
 
 Speaking of...I used mine again. My `SSH key`, that is.
 
