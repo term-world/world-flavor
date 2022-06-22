@@ -26,7 +26,7 @@ It is. Cool, that is.
 
 To prove how *cool* this key is, I just used it to mess with *your* reality.
 
-Check your living room. *You've got mail.*
+Check your bathroom.
 
 Ciao,
 
